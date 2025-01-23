@@ -1,0 +1,5 @@
+1	bob	kinsto	M	10000	1999-01-20	1	101
+2	jerry	kansxo	M	600000	1985-01-15	2	102
+3	philip	jose	M	89000	1987-3-4	3	103
+4	john	abraham	M	98000	1856-3-15	4	104
+5	michael	mathew	M	389000	1997-4-23	5	105
