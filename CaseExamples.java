@@ -29,3 +29,4 @@ public class CaseExamples
 		System.out.print("Size: "+output);
 	}
 }
+//in here double and float are not worked.
